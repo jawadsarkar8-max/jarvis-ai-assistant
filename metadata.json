@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI Web Architect",
+  "description": "A futuristic Jarvis-like AI web engineer that writes, debugs, and optimizes responsive website code, remembers project context, and runs live interactive previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
